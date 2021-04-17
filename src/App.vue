@@ -1,6 +1,6 @@
 <template>
 <div class="max-w-3xl m-auto">
-  <div>
+  <div class="flex justify-center">
     <img alt="Vue logo" src="./assets/logo.png" />
   </div>
   <HelloWorld msg="Welcome to Your PWA Vue.js App" />
