@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import HelloWorld from "./components/example/HelloWorld.vue";
 import wb from "./registerServiceWorker";
 
 export default {
