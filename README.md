@@ -1,4 +1,11 @@
 # vuejs-pwa
+- Vuejs3
+- Tailwind Css
+- PWA (cli-plugin-pwa)
+- Storybook (Bug currently)
+
+# Exam Page
+https://phamthanhthuongbk.github.io/vuejs-pwa/
 
 ## Project setup
 ```
@@ -22,3 +29,9 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Deploy 
+```
+sh deploy.sh
+```
